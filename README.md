@@ -23,7 +23,7 @@ You can customize it with your own letter, photos, and even add a background son
 
 ## 👋 About Me
 
-Hey! I'm **Sulaiman**, a web developer and student who loves building unique websites like this to help people express feelings online.
+Hey! I'm **khushbu**, a web developer and student who loves building unique websites like this to help people express feelings online.
 
 
 ---
@@ -32,4 +32,4 @@ Thank you for checking out this project! If you like it, please ⭐ star the rep
 
 ---
 
-_Made with 💖 by Sulaiman_
+_Made with 💖 by khushbu_
